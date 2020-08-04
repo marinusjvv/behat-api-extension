@@ -1,5 +1,5 @@
 {
-  "name": "imbo/behat-api-extension",
+  "name": "marinusjvv/behat-api-extension",
   "type": "library",
   "description": "API extension for Behat",
   "keywords": ["behat", "testing", "api", "REST", "http"],
